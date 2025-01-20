@@ -1,2 +1,3 @@
 # CursoDataScience
-Archivos de los potenciales datasets a utilizar en el proyecto final
+Dataset del proyecto para el analisis de Denuncias por Robos/Hurto de Vehiculos
+Link del Colab compartido.
